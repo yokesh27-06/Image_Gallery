@@ -108,7 +108,23 @@ Publish the website in the given URL.
 ## OUTPUT
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/23e720b3-1183-4c62-9f49-d574649c25ee" />
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9380a650-01d0-4596-8ce9-31705a5a6da5" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/857f8ea8-2d47-4bcf-af71-d1fab9d8ad8b" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1bcd14cb-fd94-4aef-bc08-a54d18b68c28" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5f7a6a22-3d07-4021-a316-609849e003e8" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3786d44e-8f23-4954-a757-55642dd0bbeb" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f8a47122-7b8c-44c1-867f-c8408bc029e0" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5839f8b3-320c-4a64-93dc-c28833233258" />
+
+
+
+
+
+
 
 
 ## RESULT
