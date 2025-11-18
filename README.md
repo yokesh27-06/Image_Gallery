@@ -106,6 +106,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/23e720b3-1183-4c62-9f49-d574649c25ee" />
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9380a650-01d0-4596-8ce9-31705a5a6da5" />
 
 
 ## RESULT
